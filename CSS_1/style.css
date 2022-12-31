@@ -1,0 +1,60 @@
+body {background-color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 1%;
+    padding-top: 0px;
+    text-align: center;
+    margin: auto;
+}
+header{
+    color: white;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: center;
+    background-color: blue;
+    margin: auto;
+}
+h1{
+    font-size: 54px;
+}
+h2{
+    font-size: 44px;
+    color: blue;
+}
+h3{
+    color: blue;
+}
+ul#baslik li{
+    display: inline;
+    list-style-type: none;
+    font-size: 34px;
+    padding: 50px;
+}
+ul#baslik a {
+    text-decoration: none;
+    color: wheat;
+}
+ul.markalar {
+    list-style-position: inside;
+}
+.mahsuni{
+    font-size: 2em;
+    text-align: left;
+}
+.text{
+    text-align: justify;
+}
+.nokta{
+    text-align: left;
+    list-style: none;
+    margin-left: 25%;
+    font-size: 35px;
+}
+.nokta2{
+    text-align: left;
+    list-style: none;
+    margin-left: 5%;
+}
+#font1{
+    font-size: 25px;
+}
